@@ -6,3 +6,4 @@ print("another line")
 
 print("try again")
 
+print("4")
